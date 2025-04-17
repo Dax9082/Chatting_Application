@@ -1,15 +1,6 @@
 ## REAL-TIME CHAT APPLICATION
-*COMPANY*   : CODETECH IT SOLUTIONS
 
-*NAME*      : VAISHNAVI TANDEKAR 
-
-*INTERN ID* : CT08OYH 
-
-*DOMAIN*    : MERN STACK DEVELOPMENT
-
-*DURATION*  : 4 WEEKS
-
-*METOR*     : NEELA SANTHOSH
+*NAME*      : Daksh Mehta
 
 ### DESCRIPTION
 In the real-time chat app, I used **Vite + React** for building the frontend, enabling fast development and a dynamic user interface. **TailwindCSS** and **DaisyUI** were used for creating a responsive and modern design with pre-styled components. For real-time communication, I integrated **Socket.IO client** on the frontend. On the backend, **Express.js** was used to handle API requests and server routing, while **MongoDB** stored user data and chat messages. **Cloudinary** was utilized for storing and managing image uploads, and **Socket.IO** was also used on the backend to enable real-time messaging capabilities.
